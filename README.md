@@ -15,6 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on NTA(network traffic analysis) system.
-- 🌱 I’m currently reading [click this 😏booklist](https://blog.littleji.com/booklist/)
-- 🌱 I’m currently watching [click this 😏bangumi](http://bgm.tv/anime/list/549227)
+- 🔭 I’m currently working on Cyber Insurance(网络安全保险) and ASM(attack surface management)system.
