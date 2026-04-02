@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Cyber Insurance(网络安全保险) and ASM(attack surface management)system.
+- 🔭 I’m currently working on Cyber Insurance(网络安全保险) 、Security For AI and AI For Security（Sec4AI&AI4Sec）。
