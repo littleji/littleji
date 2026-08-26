@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on Maritime Cybersecurity（E26、E27）、Cyber Insurance(网络安全保险) 、Security For AI and AI For Security（Sec4AI&AI4Sec）。
+- 🔭 I’m currently working on Security For AI and AI For Security（Sec4AI&AI4Sec）、Maritime Cybersecurity（UR E26、E27）、Cyber Insurance(网络安全保险) 。
